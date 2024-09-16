@@ -1,4 +1,4 @@
-public class MountainArrayQuestion {
+public class MountainArray {
 
     // create a method to determine if an array is a mountain array
 
