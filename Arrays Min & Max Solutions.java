@@ -1,7 +1,6 @@
 public class main {
 
     // Using brute force, create an algorirthm to return the maximum value in the array
-
     public static int maxValue(int [] arr){
         int n = arr.length;
         int max = arr[0];
