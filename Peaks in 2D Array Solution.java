@@ -1,4 +1,4 @@
-public class main {
+public class Peaks {
 
         // A method that finds peaks in 2d array & returns all peaks as an array of strings
         // A peak is when the values in the rows and columns are steadily decreasing to a lowest point (peak) and then steadily increasing after that value
