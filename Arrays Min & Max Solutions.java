@@ -12,7 +12,6 @@ public class main {
     }
 
     // using brute force, create an algorithm to return the minimum value in the array
-
     public static int minValue(int [] arr){
         int n = arr.length;
         int min = arr[0];
