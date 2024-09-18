@@ -2,7 +2,7 @@ package inClassProblems.BruteForce.PairofElementSum;
 
 import java.util.Arrays;
 
-public class main {
+public class pairOfElements {
 
     //using brute force, create an algorithm to find all pairs of elements in an array that sum to a specific target value
 
