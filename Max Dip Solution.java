@@ -1,4 +1,4 @@
-public class Main {
+public class maxDip {
 
     // Given an array of values, a dip is when a smaller value is sandwiched between two larger values
     // This method returns the index of greatist dip of the array
