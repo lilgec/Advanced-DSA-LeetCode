@@ -1,4 +1,4 @@
-public class main {
+public class passcode {
 
     // example openPhone method --> this is a given method
     public static boolean openPhone(String passcode){
