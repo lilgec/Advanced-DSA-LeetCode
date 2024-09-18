@@ -1,4 +1,4 @@
-public class Main {
+public class stockMarket {
 
     // Given an array of values that represent the price of a stock, create a method that determines the best dates to buy and sell (makes the most profit)
     // The indexes of the array represent the date
