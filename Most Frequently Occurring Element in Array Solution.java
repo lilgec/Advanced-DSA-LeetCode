@@ -1,4 +1,4 @@
-public class main {
+public class Occurances {
 
 
     // using brute force, write an algorithm to count the number of occurances of a specific int in an array
