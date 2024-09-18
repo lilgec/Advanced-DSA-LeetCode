@@ -1,4 +1,4 @@
-public class Main {
+public class maxValues {
 
     // given an array of integers, return the indexes of the maximum value
     // limited to using one for loop
