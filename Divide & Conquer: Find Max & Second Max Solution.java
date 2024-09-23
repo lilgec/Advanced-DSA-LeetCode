@@ -23,7 +23,7 @@ public class arrayMax {
 
     //Using divide and conquer, find the second maximum value in an array
     public static int findSecondMax(int [] arr){
-        // Base cases
+        // Base case
         // If there are two elements, return the minimum of the two (second Max)
         if (arr.length == 2) return Math.min(arr[0], arr[1]);
 
