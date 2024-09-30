@@ -1,5 +1,7 @@
 public class SubArray {
 
+    // Using divide and conquer find the longest increasing sub array, return the start and ending indices for the subarray
+
     public static int[] longestIncSub(int[] arr, int left, int right) {
         // Base Cases
         if (right < left) return new int [] {-1,-1}; // Invalid array
