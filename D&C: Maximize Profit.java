@@ -1,4 +1,6 @@
 public class StockMarket {
+    // Given an array of integers, determine which days are the best to buy and sell to maximize profit
+    // Return the buy and sell dates (indices)
     public static int [] maximizeProfit (int [] arr, int left, int right){
         // Base Cases
         if (right < left) return new int[]{-1, -1}; // Invalid range
